@@ -1,2 +1,2 @@
-# class-27
-made a constrained object between log and bird  and also a chain class.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
